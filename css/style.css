@@ -1,0 +1,172 @@
+body {
+    font-family: Tahoma;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000000;
+    opacity: 0.7;
+}
+
+code {
+    background-color: #EEEEEE;
+    padding: 5px;
+}
+
+.container-fluid {
+    padding: 15px;
+}
+
+.main {
+    display: flex;
+}
+
+.menu {
+    background: #384150;
+    color: #FFFFFF;
+}
+
+.item-menu {
+    text-align: center;
+    height: 60px;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+    color: #8D949E;
+    border-top: 1px solid #282F3A;
+    cursor: pointer;
+    display: flex;
+}
+
+.tarja {
+    width: 2% !important;
+    height: 59px;
+    background: #384150;
+    padding: 0;
+}
+
+.descricao {
+    padding: 17px;
+}
+
+.item-menu-ativo {
+    background-color: #212A3A !important;
+    color: #FFFFFF !important;
+}
+
+.item-menu-ativo > .tarja {
+    background: #B33C7D !important;
+}
+
+.mouseOverMenu {
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.mouseOverMenu > .tarja {
+    background: #3596C9 !important;
+}
+
+.menu-footer {
+    margin-bottom: 610px;
+}
+
+.conteudo {
+    background: #EEEEEE;
+}
+
+.cabecalho {
+    margin-top: 20px;
+    margin-left: 30px;
+    height: 42px;
+    border-bottom: 1px solid #DDDFE0;
+}
+
+.cabecalho-label {
+    padding: 15px;
+    font-size: 27px;
+    color: #3D4F61;
+    font-weight: 500;
+    line-height: 15px;
+}
+
+.div-table, .div-form {
+    margin-top: 50px;
+}
+
+.cadastro, .bloco-endereco {
+    display: none;
+}
+
+.w-100 {
+    width: 100% !important;
+}
+
+.w-35 {
+    width: 35% !important;
+}
+
+.w-25 {
+    width: 25% !important;
+}
+
+.w-15 {
+    width: 15% !important;
+}
+
+.pl-50 {
+    padding-left: 50px !important;
+}
+
+.margin-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.txt-center {
+    text-align: center;
+}
+
+.display-block {
+    display: block;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.oculto {
+    display: none !important;
+}
+
+.cliente-logado span {
+    margin: 45px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.cliente-pedidos span {
+    margin: 45px;
+    font-size: 15px;
+}
+
+.div-cardapio {
+    display: flex;
+    margin-top: 80px !important;
+}
+
+.itens-cardapio {
+    font-size: 13px;
+}
+
+#btn-pedido {
+    line-height: 1 !important;
+}
+
+.ml-auto {
+    margin-left: auto;
+}
