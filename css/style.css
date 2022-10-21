@@ -143,30 +143,30 @@ code {
     display: none !important;
 }
 
-.cliente-logado span {
+.trader-logado span {
     margin: 45px;
     font-size: 15px;
     font-weight: 500;
 }
 
-.cliente-pedidos span {
+.trader-ordens span {
     margin: 45px;
     font-size: 15px;
 }
 
-.div-cardapio {
+.div-ativos {
     display: flex;
     margin-top: 80px !important;
 }
 
-.itens-cardapio {
+.itens-ativos {
     font-size: 13px;
-}
-
-#btn-pedido {
-    line-height: 1 !important;
 }
 
 .ml-auto {
     margin-left: auto;
+}
+
+.pointer {
+    cursor: pointer !important;
 }

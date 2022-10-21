@@ -8,14 +8,14 @@
     </div>
 
     <div class="oculto" id="ativos">
-        <div class="col-md-10 offset-2 div-cardapio">
+        <div class="col-md-10 offset-2 div-ativos">
             <div class="col-md-3">
                 <div class="txt-center">
                     <img src="images/ativo.png" class="w-25" alt="imagem-login" id="imagem-login" >
                 </div>
                 <div class="txt-center mt-2">
-                    <span class="display-block itens-cardapio" id="c1p1"></span>
-                    <span class="display-block itens-cardapio" id="c1p2"></span>
+                    <span class="display-block itens-ativos" id="c1p1"></span>
+                    <span class="display-block itens-ativos" id="c1p2"></span>
                 </div>
             </div>
             <div class="col-md-3">
@@ -23,8 +23,8 @@
                     <img src="images/ativo.png" class="w-25" alt="imagem-login" id="imagem-login" >
                 </div>
                 <div class="txt-center mt-2">
-                    <span class="display-block itens-cardapio" id="c2p1"></span>
-                    <span class="display-block itens-cardapio" id="c2p2"></span>
+                    <span class="display-block itens-ativos" id="c2p1"></span>
+                    <span class="display-block itens-ativos" id="c2p2"></span>
                 </div>
             </div>
             <div class="col-md-3">
@@ -32,20 +32,20 @@
                     <img src="images/ativo.png" class="w-25" alt="imagem-login" id="imagem-login" >
                 </div>
                 <div class="txt-center mt-2">
-                    <span class="display-block itens-cardapio" id="c3p1"></span>
-                    <span class="display-block itens-cardapio" id="c3p2"></span>
+                    <span class="display-block itens-ativos" id="c3p1"></span>
+                    <span class="display-block itens-ativos" id="c3p2"></span>
                 </div>
             </div>
         </div>
 
-        <div class="col-md-9 offset-3 div-cardapio">
+        <div class="col-md-9 offset-3 div-ativos">
             <div class="col-md-3">
                 <div class="txt-center">
                     <img src="images/ativo.png" class="w-25" alt="imagem-login" id="imagem-login" >
                 </div>
                 <div class="txt-center mt-2">
-                    <span class="display-block itens-cardapio" id="c4p1"></span>
-                    <span class="display-block itens-cardapio" id="c4p2"></span>
+                    <span class="display-block itens-ativos" id="c4p1"></span>
+                    <span class="display-block itens-ativos" id="c4p2"></span>
                 </div>
             </div>
             <div class="col-md-3">
@@ -53,14 +53,14 @@
                     <img src="images/ativo.png" class="w-25" alt="imagem-login" id="imagem-login" >
                 </div>
                 <div class="txt-center mt-2">
-                    <span class="display-block itens-cardapio" id="c5p1"></span>
-                    <span class="display-block itens-cardapio" id="c5p2"></span>
+                    <span class="display-block itens-ativos" id="c5p1"></span>
+                    <span class="display-block itens-ativos" id="c5p2"></span>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="col-md-8 margin-auto oculto" id="div-ativos" style="margin-top: 100px;">
+    <div class="col-md-8 margin-auto oculto" id="div-ativos-ordem" style="margin-top: 100px;">
 
         <form class="display-flex" id="form-ordem">
             <div class="form-check form-check-inline">

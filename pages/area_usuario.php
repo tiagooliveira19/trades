@@ -2,9 +2,9 @@
     <label class="cabecalho-label">Área do Investidor</label>
 </div>
 
-<div class="col-md-12 mt-3 cliente-logado"></div>
+<div class="col-md-12 mt-4 trader-logado"></div>
 
-<div class="col-md-12 mt-4 cliente-pedidos">
+<div class="col-md-12 mt-4 trader-ordens">
     <span>Seu(s) Trades:</span>
 
     <div class="col-md-8 margin-auto mt-3">
@@ -15,6 +15,7 @@
                     <th>Empresa</th>
                     <th>Código do Ativo</th>
                     <th>Data da Compra</th>
+                    <!--<th>Ações</th>-->
                 </tr>
             </thead>
             <tbody id="table-body">
